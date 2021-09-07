@@ -6,7 +6,7 @@ Design: Try to hit rectangles with the ball in the same color, the color of the 
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](gamescreenshot.png)
 
 How To Play:
 
