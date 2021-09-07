@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# ColorPong!
 
-Author: (TODO: your name)
+Author: Wish Kuo (Andrew ID: chihhsuk)
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Try to hit rectangles with the ball in the same color, the color of the ball will change after each time it hits the rectangles.
 
 Screen Shot:
 
@@ -10,8 +10,10 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Simply swipe your mouse to control the 4 paddles. Swipt left/right for the upper and lower one, up/down for the left and right one.
+The rectangles in the middle are your target, try to hit the colorful rectangles while the ball's color matches the one you hit.
+Hit red rectangles for 3 points, yellow ones for 2 points, and green ones for 1 point.
+Note the ball's color will change every time when you hit the rectangles.
+Your goal is to earn as many points as you can!
 
 This game was built with [NEST](NEST.md).
